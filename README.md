@@ -26,14 +26,8 @@ It uses **YOLOv8 Object Detection** to automatically detect and localize:
 - Unzip dataset (`gg.zip`) into `train/`, `valid/`, and `test/` folders  
 - YOLO format labels (`.txt`) for each image  
 
-### 2. YAML Configuration
-```yaml
-train: dataset10/train/images
-val: dataset10/valid/images
-test: dataset10/test/images
-nc: 3
-names: ['Cup Disc', 'Optic Cup', 'Optic Disc']
-###3. Model Training
+
+### 3. Model Training
 
 Base model: YOLOv8m
 
