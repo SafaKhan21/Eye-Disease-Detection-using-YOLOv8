@@ -36,7 +36,7 @@ Epochs: 50
 Image size: 640×640
 
 
-##  Results
+## 📊 Results
 
 Validation Accuracy: ~90%
 
